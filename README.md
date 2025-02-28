@@ -33,3 +33,6 @@ for prod:
 vercel --prod
 
 vercel backend deployed on : https://betting-backend-one.vercel.app
+
+Demo URL: https://drive.google.com/file/d/16-TGzyegbPie33-oe_eYZBcpdzJJ46y3/view?usp=sharing
+Smart Contract deployed on Sepolia BASE Testnet: https://sepolia.basescan.org/address/0x34f13cf42fac7c609d691679f0d2454fe45b348f
