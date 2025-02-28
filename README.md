@@ -31,3 +31,5 @@ vercel dev
 
 for prod:
 vercel --prod
+
+vercel backend deployed on : https://betting-backend-one.vercel.app
